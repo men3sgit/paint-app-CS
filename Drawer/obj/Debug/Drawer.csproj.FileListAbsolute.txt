@@ -1,0 +1,10 @@
+D:\Uni\.NET\work-space\Drawer\Drawer\bin\Debug\Drawer.exe.config
+D:\Uni\.NET\work-space\Drawer\Drawer\bin\Debug\Drawer.exe
+D:\Uni\.NET\work-space\Drawer\Drawer\bin\Debug\Drawer.pdb
+D:\Uni\.NET\work-space\Drawer\Drawer\obj\Debug\Drawer.csproj.AssemblyReference.cache
+D:\Uni\.NET\work-space\Drawer\Drawer\obj\Debug\Drawer.Form1.resources
+D:\Uni\.NET\work-space\Drawer\Drawer\obj\Debug\Drawer.Properties.Resources.resources
+D:\Uni\.NET\work-space\Drawer\Drawer\obj\Debug\Drawer.csproj.GenerateResource.cache
+D:\Uni\.NET\work-space\Drawer\Drawer\obj\Debug\Drawer.csproj.CoreCompileInputs.cache
+D:\Uni\.NET\work-space\Drawer\Drawer\obj\Debug\Drawer.exe
+D:\Uni\.NET\work-space\Drawer\Drawer\obj\Debug\Drawer.pdb
